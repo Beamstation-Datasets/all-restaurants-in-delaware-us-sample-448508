@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete state-level restaurant data for Delaware. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Delaware, US",
+  "export_job_id": "9ad4c5db-43c1-48fc-9bf0-8bf6fff50f14",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 448508,
+  "location_name": "Delaware",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-delaware-us-sample-448508",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/448508/beamstation_448508_restaurants-us-de_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 292,
+  "sample_sha256": "7329cc8a4be8d0d045fd41bfa8088993274f40b3b4f429619355d8019c0cb81a",
+  "sample_size_bytes": 1032748,
+  "total_records": 2922,
+  "updated_at": "2026-04-09T12:27:38.908543+00:00"
+}
