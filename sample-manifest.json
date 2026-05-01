@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4f6e1733-2a73-46cf-b1d6-93651735635d",
+  "export_job_id": "88f79518-c839-4441-bd1f-a63988675bf7",
   "id_short": 448508,
-  "published_at": "2026-04-23T19:20:49Z",
+  "published_at": "2026-05-01T07:04:35Z",
   "repo_name": "all-restaurants-in-delaware-us-sample-448508",
   "sample_asset_name": "beamstation_448508_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/448508/beamstation_448508_restaurants-us-de_SAMPLE_DIST.csv",
-  "sample_records": 226,
-  "sample_sha256": "4c252ee763bb9796ef4eb451f7d17b0a41206a7736a6e5eded1a6dd5c5f0216c",
-  "sample_size_bytes": 718443,
-  "total_records": 2264
+  "sample_records": 294,
+  "sample_sha256": "8caa096483240f86bfc8518f4593b5a64240b157e4caf3573d11c79328ac99bf",
+  "sample_size_bytes": 1024250,
+  "total_records": 2945
 }
